@@ -1,0 +1,8 @@
+{
+    "name" : "appname - default",
+    "mongodburl" : "mongodb+srv://dbuser:arcUwWK6JZIUebhg@cluster0.uyxzx.mongodb.net/musicapp?retryWrites=true&w=majority",
+    "salt" : "$2b$14$40MxueJmWhiHXu3s3SJEXO"
+}
+
+
+

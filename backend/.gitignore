@@ -1,0 +1,6 @@
+node_modules/
+
+
+
+
+mongodb+srv://dbuser:mongodbAS12@#@cluster0.uyxzx.mongodb.net/musicapp?retryWrites=true&w=majority
